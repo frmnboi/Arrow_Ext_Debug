@@ -1,5 +1,8 @@
 To debug the creation of C++ extensions for Pyarrow
 
+Repository is based off the one here:
+https://github.com/vaexio/vaex-arrow-ext
+
 Requires: 
 -pip install pyarrow 
 -pip install pybind11
